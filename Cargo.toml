@@ -1,0 +1,10 @@
+[package]
+name = "trace-pretty"
+version = "0.1.0"
+authors = ["Alex Burka <aburka@seas.upenn.edu>"]
+
+[dependencies]
+
+[dev-dependencies]
+difference = "1.0"
+
